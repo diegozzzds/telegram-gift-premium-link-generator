@@ -1,4 +1,4 @@
-git clone https://github.com/diegozzzds/telegram-gift-premium-link-generator/new/main?filename=README.md
+git clone https://github.com/diegozzzds/telegram-gift-premium-link-generator
 
 cd telegram-gift-premium-link-generator
 
